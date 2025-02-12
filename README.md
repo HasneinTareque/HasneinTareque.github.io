@@ -1,3 +1,4 @@
 # HasneinTareque.github.io
 Personal Website
-[LinkedIn Profile](https://www.linkedin.com/in/hasnein-tareque/)
+
+My [LinkedIn Profile](https://www.linkedin.com/in/hasnein-tareque/)
